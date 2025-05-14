@@ -1,16 +1,23 @@
-## Hi there 👋
+# Olá, eu sou Getulio Vagner 👋
 
-<!--
-**aAnthonycalixto/aAnthonycalixto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bem-vindo ao meu perfil no GitHub! Sou um desenvolvedor apaixonado por tecnologia e programação. Atualmente, sou Docente na instituição Senai e também treinador do representante cearense para a WorldSkills na ocupação #08 - Desenvolvimento de Aplicativos.
 
-Here are some ideas to get you started:
+## Sobre Mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 Atualmente estou aprendendo **Phyton**.
+- 👯 Estou procurando oportunidades de emprego na area, para poder ganhar experiencia.
+- 📫 Como me encontrar: [anthonyheder25@gmail.com](anthonyheder25@gmail.com)
+
+## Habilidades
+
+- **Linguagens de Programação:** java Script
+- **Frameworks:** Bootstrap
+- **Ferramentas:** Git, vscode, mysql workbench
+
+## Estatísticas do GitHub
+
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=aAnthonycalixto_icons=true&theme=radical)
+
+## Entre em Contato
+
+- [LinkedIn](www.linkedin.com/in/anthony-heder-3b116b350)
